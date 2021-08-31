@@ -1,0 +1,7 @@
+mysql_user: aqin
+mysql_database: parenthood
+mysql_host: localhost
+mysql_passwd: EtXQEBNIvW9IhUrw
+ssh_username: aqin
+ssh_password: EtXQEBNIvW9IhUrw
+ssh_host: parenthood.set.care
